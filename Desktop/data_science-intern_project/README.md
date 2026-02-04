@@ -71,3 +71,20 @@ This project analyzes how market sentiment (Fear/Greed Index) influences trader 
 - Scikit-learn for modeling and cross-validation
 - Statsmodels for regression analysis
 - Streamlit for interactive dashboard
+
+## Repository
+This project is version controlled using Git and hosted on GitHub.
+- **Repository**: https://github.com/KMbarath/DS_assessment
+- **Main Branch**: All code is pushed to the `main` branch
+- **.gitignore**: CSV data files are excluded from version control to reduce repository size
+
+### Git Setup
+```bash
+# Clone the repository
+git clone https://github.com/KMbarath/DS_assessment.git
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+**Note**: Data files (CSV files) are not included in the repository. You'll need to provide your own data files in the project directory.

@@ -1,0 +1,17 @@
+# Data files (do not commit raw datasets)
+*.csv
+
+# Python bytecode / caches
+__pycache__/
+*.pyc
+
+
+# Editor / notebook / environment
+.vscode/
+.env
+.ipynb_checkpoints/
+
+# Logs & local DBs
+*.log
+*.sqlite3
+
